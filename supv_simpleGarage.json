@@ -1,0 +1,9 @@
+{
+	"script": "supv_simpleGarage",
+    "version": "1.0",
+	"changelog": [
+        "^8[Global]^2:",
+        "\t^2- ^3Init ^7Commit"
+    ],
+	"link": "Download resource on your keymaster"
+}
