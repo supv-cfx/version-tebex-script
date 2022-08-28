@@ -1,9 +1,9 @@
 {
 	"script": "supv_carkey",
-    "version": "1.0",
+    "version": "1.1",
 	"changelog": [
         "^8[Global]^2:",
-        "\t^2- ^3Init ^7Commit"
+        "\t^2- ^3Add ^7Restriction to start any vehicle (+2 ligne to setting it in config)"
     ],
 	"link": "Download resource on your keymaster"
 }
