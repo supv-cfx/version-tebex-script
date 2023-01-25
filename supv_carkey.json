@@ -1,6 +1,6 @@
 {
 	"script": "supv_carkey",
-    "version": "1.4",
+    "version": "1.5",
 	"changelog": [
         "^8[Global]^2:",
         "\t^2- ^3Correct ^7DeleteCarKey function and change checker version"
