@@ -1,5 +1,8 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.1.5
+- Debug? : Remove some condition from config to load event handcuff system
+
 ## supv_faction-builder v0.1.4
 - Debug? : Add more print to debug handcuff system (server client / target)
 
