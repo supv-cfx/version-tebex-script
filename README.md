@@ -1,9 +1,12 @@
-## version-tebex-script (changelog)
+# version-tebex-script (changelog)
 
-# supv_faction-builder v0.1.3
+## supv_faction-builder v0.1.4
+- Debug? : Add more print to debug handcuff system (server client / target)
+
+## supv_faction-builder v0.1.3
 - Correction : Faction part, handcuff system event + add print to debug it
 
-# supv_faction-builder v0.1.2
+## supv_faction-builder v0.1.2
 - Correction :
 - - Builder: 
 - - - Blips scale
@@ -11,6 +14,6 @@
 - - Faction: 
 - - - System handcuff
 
-# supv_faction-builder v0.1.1
+## supv_faction-builder v0.1.1
 - Correction : Some error with encryption escrow to edit menu (rageui) in builder
 - Remove : Button to edit marker because this features isn't finish yet
