@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.1.6
+- Debug: handcuff system fixed
+- Correction native : IsPedDeadOrDying
+
 ## supv_faction-builder v0.1.5
 - Debug? : Remove some condition from config to load event handcuff system
 
