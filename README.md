@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_societyGarage v1.7
+- Some issues are fixed with preview of vehicle if you use RageUI, some optimization
+- Re upload because server-side broken with escrow since v1.6
+
 ## supv_faction-builder v0.1.6
 - Debug: handcuff system fixed
 - Correction native : IsPedDeadOrDying
