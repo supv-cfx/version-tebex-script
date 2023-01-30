@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.1.7
+- Add Notification (look config's) --not finish... implementation started
+- Sync blips for every players when setting `show = 'erveryone'`
+
 ## supv_societyGarage v1.7
 - Some issues are fixed with preview of vehicle if you use RageUI, some optimization
 - Re upload because server-side broken with escrow since v1.6
