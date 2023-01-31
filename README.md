@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_carkey v1.6
+- Add command you can config in config.lua to give car key example : 
+- - `/givecarkey id` or `/gck id` *give carkey for vehicle playerId is in*
+
 ## supv_faction-builder v0.1.7
 - Add Notification (look config's) --not finish... implementation started
 - Sync blips for every players when setting `show = 'erveryone'`

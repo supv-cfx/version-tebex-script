@@ -1,9 +1,9 @@
 {
 	"script": "supv_carkey",
-    "version": "1.5",
+    "version": "1.6",
 	"changelog": [
         "^8[Global]^2:",
-        "\t^2- ^3Correct ^7DeleteCarKey function and change checker version"
+        "\t^2- ^3ERROR ^7If you see this message you have not update your script... RE DOWNLOAD PLEASE"
     ],
 	"link": "Download resource on your keymaster"
 }
