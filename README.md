@@ -1,5 +1,8 @@
 # version-tebex-script (changelog)
 
+## supv_healing v1.0
+- Initial release!
+
 ## supv_carkey v1.6
 - Add command you can config in config.lua to give car key example : 
 - - `/givecarkey id` or `/gck id` *give carkey for vehicle playerId is in*
