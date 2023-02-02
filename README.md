@@ -1,10 +1,13 @@
 # version-tebex-script (changelog)
 
+## supv_healing v1.2
+- Add StateBag (LocalPlayer.state.supv_healing) to get status of player if he is in healing or not
+
 ## supv_simpleGarage v1.2
 - Updated for supv_core (modules marker) (wrong files v1.1 xD)
 
-## supv_healing v1.0
-- Correction fxmanifest, missing: `config/client.lua`
+## supv_healing v1.1
+- Correction fxmanifest, missing: `config/client.lua` LocalPlayer.state.supv_healing
 
 ## supv_simpleGarage v1.1
 - Updated for supv_core (modules marker)
