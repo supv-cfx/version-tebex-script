@@ -1,5 +1,8 @@
 # version-tebex-script (changelog)
 
+## supv_healing v1.0
+- Correction fxmanifest, missing: `config/client.lua`
+
 ## supv_simpleGarage v1.1
 - Updated for supv_core (modules marker)
 
