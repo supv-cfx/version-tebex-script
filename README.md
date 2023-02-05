@@ -1,5 +1,16 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.1.8
+- Correction :
+    - Error load faction/client.lua file if you don't create blips for faction player got
+    - Error font got a nil value when you open menu after register/edit faction if you setting a menu (only if you use RageUI Libs) for faction you created
+    - Is now possible edit garages you created in faction-builder
+- Edit :
+    - Rewrite all files config
+    - Rewrite System of menu (faction part)
+    - Some optimization
+    - .sql files (add 2 request)
+
 ## supv_healing v1.2
 - Add StateBag (LocalPlayer.state.supv_healing) to get status of player if he is in healing or not
 
