@@ -6,6 +6,7 @@
     - Error font got a nil value when you open menu after register/edit faction if you setting a menu (only if you use RageUI Libs) for faction you created
     - Is now possible edit garages you created in faction-builder
 - Edit :
+    - Not overrides Thread if faction loaded is already loaded
     - Rewrite all files config
     - Rewrite System of menu (faction part)
     - Some optimization
