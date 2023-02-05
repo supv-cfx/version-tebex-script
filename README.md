@@ -1,5 +1,10 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.1.9
+- Reupload : Because 1 error by escrow
+- Correction : Index font menu editor (RageUI Libs) default
+- Remove : fx_oal in fxmanifest
+
 ## supv_faction-builder v0.1.8
 - Correction :
     - Error load faction/client.lua file if you don't create blips for faction player got
