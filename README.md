@@ -1,5 +1,13 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.2.1 (This update need supv_core >= v0.7.4.1)
+- __Correction-Blips:__ Modification du scale:ballot_box_with_check
+- __Correction-BossAction:__ Correction de la function exporter `supv_esx:SetAdvanced(...)`
+- __Correction-Garage:__ Parfois les les points pour rentrer un véhicule ne charger pas (car la place occupée dans le véhicule n'était pas bien retourner)
+
+## supv_esx v0.3 (This update need supv_core >= v0.7.4.1)
+- Correction mineur ainsi que le clear des prints
+
 ## supv_faction-builder v0.2.0 (This update need supv_core >= v0.7.4)
 - __Blips:__  Correction de la preview blip si vous avez pas le minimum de paramètre recommandé pour lancé cette preview
 - __Blips:__ Correction de l'affichage dans le RightLabel du `scale` quand vous faites un blip pour qu'il s'actualise au changement du `float`
@@ -16,10 +24,10 @@ ALTER TABLE `supv_faction_builder`
 ADD `bossAction` longtext DEFAULT '[]';
 ```
 __**Information types de garage :**__
-- __1__ : *Véhicule qui appartient a la faction (table sql doit correspondre: owned_vehicles `faction`)
-- __2__ : *Véhicule qui appartient a la faction et au joueur (table sql doit correspondre: owned_vehicles `faction` ET `owner`)
-- __3__ : *Véhicule qui appartient a la faction ou au joueur (table sql doit correspondre: owned_vehicles `faction` OU `owner`)
-- __4__ : *Tout les véhicules possibles (Si le véhicule est dans la table sql `owned_vehicles` alors il sera stocker avec la data actualiser en db, si c'est une véhicule voler il sera enregistrer dans le fichier `garage.json`
+- __1__ : Véhicule qui appartient a la faction (table sql doit correspondre: owned_vehicles `faction`)
+- __2__ : Véhicule qui appartient a la faction et au joueur (table sql doit correspondre: owned_vehicles `faction` ET `owner`)
+- __3__ : Véhicule qui appartient a la faction ou au joueur (table sql doit correspondre: owned_vehicles `faction` OU `owner`)
+- __4__ : Tout les véhicules possibles (Si le véhicule est dans la table sql `owned_vehicles` alors il sera stocker avec la data actualiser en db, si c'est une véhicule voler il sera enregistrer dans le fichier `garage.json`
 
 ## supv_esx v0.2 (This update need supv_core >= v0.7.4)
 - Retravaille complet sur l'ensemble des exports
