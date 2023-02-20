@@ -1,5 +1,11 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.2.2
+- __Correction => Builder Menu:__ bossFaction ajouter au constructor
+- __ADD => Config/faction/client:__ Config.TargetMarker pour personnaliser le marker visible ou non sur le joueur target quand vous naviguez dans le menu f7 par défaut
+- __ADD => Faction Menu (F7):__ Possibilitez pour un joueur de fouillez le joueur target si celui-ci est mort ou menotté (via le système de menotte dans le menu uniquement) (à test)
+- __EDIT => Faction Menu (F7):__ Le menu se fermera automatiquement si le joueur est mort
+
 ## supv_faction-builder v0.2.1 (This update need supv_core >= v0.7.4.1)
 - __Correction-Blips:__ Modification du scale:ballot_box_with_check
 - __Correction-BossAction:__ Correction de la function exporter `supv_esx:SetAdvanced(...)`
