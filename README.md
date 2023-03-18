@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.2.3 (This update is for supv_core >= 0.7.5.2)
+- __ADD:__ log maj discord webhook
+- __ADD:__ blacklist model of vehicle garage type 4 (look config/faction/server)
+
 ## supv_faction-builder v0.2.2
 - __Correction => Builder Menu:__ bossFaction ajouter au constructor
 - __ADD => Config/faction/client:__ Config.TargetMarker pour personnaliser le marker visible ou non sur le joueur target quand vous naviguez dans le menu f7 par défaut
