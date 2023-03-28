@@ -1,5 +1,15 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.2.4
+- __FIX :__
+	- Marker Color (builder)
+	- Heading spawn vehicle (faction)
+	- Error on supv_esx (tt nil value)
+- __FEATURE :__
+	- Marker setting color value 5 = ?banner.color
+- __ADD :__
+	- Documentation faction esx-legacy
+
 ## supv_faction-builder v0.2.3 (This update is for supv_core >= 0.7.5.2)
 - __ADD:__ log maj discord webhook
 - __ADD:__ blacklist model of vehicle garage type 4 (look config/faction/server)
