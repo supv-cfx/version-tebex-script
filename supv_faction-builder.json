@@ -1,6 +1,6 @@
 {
 	"script": "supv_faction-builder",
-    "version": "0.2.4",
+    "version": "0.2.5",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# fix\n\t- Marker Color (builder)\n\t- Heading spawn vehicle (faction)\n\t- Error on supv_esx (tt nil value)\n# feature\n\t- Marker setting color value 5 = ?banner.color\n# add\n\t- Documentation faction esx-legacy"
+	"msg": "# fix\n\t- Player can not open f7 faction menu if he is handcuffed or dead"
 }

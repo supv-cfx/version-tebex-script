@@ -1,5 +1,9 @@
 # version-tebex-script (changelog)
 
+## supv_faction-builder v0.2.5
+- __FIX :__
+    - Player can not open f7 faction menu if he is handcuffed or dead
+
 ## supv_faction-builder v0.2.4
 - __FIX :__
 	- Marker Color (builder)
