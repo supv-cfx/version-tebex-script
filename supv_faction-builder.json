@@ -1,6 +1,6 @@
 {
 	"script": "supv_faction-builder",
-    "version": "0.2.5",
+    "version": "0.2.6",
 	"link": "Re download this resource on your keymaster",
-	"msg": "# fix\n\t- Player can not open f7 faction menu if he is handcuffed or dead"
+	"msg": "# fix\n\t- Out vehicule from type 1 garage\n# add\n\t- config faction server function to add/remove key\n\t- config faction client function to add/remove key & persistance vehicule"
 }
